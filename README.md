@@ -7,14 +7,14 @@
 - 💬 Ask me about music
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: My favorite music band is The Beatles
-- I am new in GitHub <br>
-:)
+- <br>
+
 
 
 ## Programming Languages
-* Python (intermediate)
-* C++ (basics)
-* HTML (basics)
+* Python 
+* C++
+* HTML 
 <!--
 **Perea094/Perea094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
