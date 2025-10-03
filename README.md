@@ -1,21 +1,8 @@
-# About me
-## Hi there 👋
-- 🔭 I’m currently working on personal projects involving python
-- 🌱 I’m currently learning Python and C++
-- 👯 I’m looking to collaborate on data science and AI
-- 🤔 I’m looking for help with gaining experience
-- 💬 Ask me about music
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: My favorite music band is The Beatles
-- <br>
+<h1 align="center">
+  About me
+</h1>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
-## Programming Languages
-* Python 
-* C++
-* HTML 
-<!--
-**Perea094/Perea094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+Currenttly developing personal and academic project involving python, AI, and data science in general.
