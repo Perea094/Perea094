@@ -18,3 +18,12 @@ Currenttly developing personal and academic project involving python, AI, and da
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Perea094&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+
+<!--
+---
+
+[![Perea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perea094&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/Perea094)
+
+-->
+
