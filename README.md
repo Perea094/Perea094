@@ -1,5 +1,5 @@
 <h1 align="center">
-  About me 🔥
+  Hi there 🔥
 </h1>
 
 
