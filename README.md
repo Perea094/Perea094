@@ -71,7 +71,7 @@
 <div align="center">
   <!-- Achievement Trophies (Rank Badges) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Perea094&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Perea094&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
