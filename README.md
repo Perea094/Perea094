@@ -106,7 +106,7 @@
   <a href="https://github.com/Perea094/Food-Inventory-Manager-FNVAC">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Perea094&repo=Food-Inventory-Manager-FNVAC&theme=dracula" alt="Food Inventory Manager" />
   </a>
-  <a href="https://github.com/Perea094/ReinforcementLearning_StreetFighter">
+  <a href="https://github.com/LEIA-qro/street_fighter">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Perea094&repo=ReinforcementLearning_StreetFighter&theme=dracula" alt="Street Fighter RL Agent" />
   </a>
 </div>
