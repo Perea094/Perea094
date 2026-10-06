@@ -107,7 +107,7 @@
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Perea094&repo=CareerVault-DS-SWE&theme=dracula" alt="CareerVault-DS-SWE" />
   </a>
   <a href="https://github.com/LEIA-qro/street_fighter">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=LEIA-qro&repo=street_fighter&theme=dracula" alt="Street Fighter RL Agent" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=LEIA-qro&repo=street_fighter&theme=dracula" alt="street_fighter" />
   </a>
 </div>
 
