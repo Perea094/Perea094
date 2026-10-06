@@ -103,7 +103,7 @@
 
 <!-- Pinned Verified Public Repositories -->
 <div align="center">
-  <a href="https://github.com/Perea094/Food-Inventory-Manager-FNVAC">
+  <a href="https://github.com/Perea094/CareerVault-DS-SWE">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Perea094&repo=Food-Inventory-Manager-FNVAC&theme=dracula" alt="Food Inventory Manager" />
   </a>
   <a href="https://github.com/LEIA-qro/street_fighter">
